@@ -1,7 +1,7 @@
 # QCBM
  Quantum Circuit Born Machine
 
-# The Quantum Circuit Born Machine (QCMB) as a Market Generator
+# The Quantum Circuit Born Machine (QCBM) as a Market Generator
 This code has been created based on the algorithm presented in chapter 9 of the book
 #### Quantum Machine Learning and Optimisation in Finance by A. Jacquier and O. Kondratyev (2022, Packt Publishing)
 
